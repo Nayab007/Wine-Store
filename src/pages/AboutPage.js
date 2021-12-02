@@ -14,7 +14,7 @@ const AboutPage = () => {
           <div className='underline'></div>
         </div>
         <p>
-         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Conclusum est enim contra Cyrenaicos satis acute, nihil ad Epicurum. Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit. Ad eas enim res ab Epicuro praecepta dantur. Quis Aristidem non mortuum diligit? 
+         Lorem ipsum  sit amet, consectetur adipiscing elit. Conclusum est enim contra Cyrenaicos satis acute, nihil ad Epicurum. Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit. Ad eas enim res ab Epicuro praecepta dantur. Quis Aristidem non mortuum diligit? 
 
         Aeque enim contingit omnibus fidibus, ut incontentae sint. Piso, familiaris noster, et alia multa et hoc loco Stoicos irridebat: Quid enim? At Zeno eum non beatum modo, sed etiam divitem dicere ausus est. Vitae autem degendae ratio maxime quidem illis placuit quieta. Hoc Hieronymus summum bonum esse dixit. Te enim iudicem aequum puto, modo quae dicat ille bene noris. Est igitur officium eius generis, quod nec in bonis ponatur nec in contrariis. Est tamen ea secundum naturam multoque nos ad se expetendam magis hortatur quam superiora omnia. 
 

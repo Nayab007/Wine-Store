@@ -18,7 +18,7 @@ const AboutPage = () => {
 
         Aeque enim contingit omnibus fidibus, ut incontentae  Pison,  one familiaris nooster, et alia multa et hoc loco Stoicos irridebat: Quid enim? At Zeno eum non beatum modo, sed etiam divitem dicere ausus est. Vitae autem degendae ratio maxime quidem illis placuit quieta. Hoc Hieronymus summum bonum esse dixit. Te enim iudicem aequum puto, modo quae dicat ille bene noris. Est igitur officium eius generis, quod nec in bonis ponatur nec in contrariis. Est tamen ea secundum naturam multoque nos ad se expetendam magis hortatur quam superiora omnia. 
 
-        Hoc positum in  a 1  Platone probavit EFpicurus sensitque in  disputatione id fieri . Kconsectetur  elit, familiaris noster, nquit, perpetua oratio rhetorum solum,Quasi vero, inquit, perpetua oratio rhetorum solum, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit. Ad eas enim res ab Epicuro praecepta dantur. Quis Aristidem non mortuum diligit? 
+        Hoc positum in  a 12  Platone probavit EFpicurus sensitque in  disputatione id fieri . Kconsectetur  elit, familiaris noster, nquit, perpetua oratio rhetorum solum,Quasi vero, inquit, perpetua oratio rhetorum solum, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit. Ad eas enim res ab Epicuro praecepta dantur. Quis Aristidem non mortuum diligit? 
 
         </p>
       </article>

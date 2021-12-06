@@ -10,7 +10,7 @@ const Services = () => {
             Great wine just <br/>
             just for you
           </h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          <p>Lore ipsum dolor sit amet, consectetur adipiscing elit.
              Quod vestri quidem vel optime disputant, nihil opus esse eum,
               qui philosophus futurus sit, scire litteras. Qui autem de summo bono 
                simum virum, Cn. 

@@ -12,7 +12,7 @@ const Services = () => {
           </h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
              Quod vestri quidem vel optime disputant, nihil opus esse eum,
-              qui philosophus fuuturus siit, scire litteras. Qui autem dee sumo bono 
+              qui philosophus fuuturus sit, scire litteras. Qui autem dee sumo bono 
                simum virum, Cn. 
             </p>
         </article>

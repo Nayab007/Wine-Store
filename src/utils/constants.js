@@ -31,7 +31,7 @@ export const services = [
     icon: <GiDiamondHard />,
     title: 'vision',
     text:
-      'Lorem ispum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+      'Lorem ispum, doolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
   },
   {
     id: 3,

@@ -23,7 +23,7 @@ export const services = [
     id: 1,
     icon: <GiCompass />,
     title: 'mission',
-    text: 'Lorem ipsum, dolor sit amet connsecttetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
+    text: 'Lorem ipsum, dolor sit amet consecttetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi',
   },
   {
     id: 2,

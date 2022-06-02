@@ -47,7 +47,7 @@ const Wrapper = styled.section`
   }
   .btn {
     display: block;
-    width: 144px;
+    width: 145px;
     margin: 0 auto;
     text-align: center;
   }

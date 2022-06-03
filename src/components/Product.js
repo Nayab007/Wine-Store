@@ -36,7 +36,7 @@ const Wrapper = styled.article`
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-57%, -50%);
+    transform: translate(-58%, -50%);
     background: var(--clr-primary-5);
     display: flex;
     align-items: center;

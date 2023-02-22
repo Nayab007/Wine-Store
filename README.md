@@ -1,6 +1,6 @@
 ## Notes
 
-#### Older React Version      
+#### Older React Version       
 
 ```
 "react": "^16.13.1",
